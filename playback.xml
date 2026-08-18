@@ -96,13 +96,13 @@
     <programme channel="CCTV1综合" start="20260818200045 +0800" stop="20260818200400 +0800">
         <title lang="zh">前情提要-藏锋-第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818200400 +0800" stop="20260818205350 +0800">
+    <programme channel="CCTV1综合" start="20260818200400 +0800" stop="20260818205420 +0800">
         <title lang="zh">藏锋第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818205350 +0800" stop="20260818205750 +0800">
+    <programme channel="CCTV1综合" start="20260818205420 +0800" stop="20260818205820 +0800">
         <title lang="zh">前情提要-藏锋-第4集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818205750 +0800" stop="20260818215240 +0800">
+    <programme channel="CCTV1综合" start="20260818205820 +0800" stop="20260818215240 +0800">
         <title lang="zh">藏锋第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260818215240 +0800" stop="20260818220000 +0800">
@@ -6096,85 +6096,91 @@
     <programme channel="重庆卫视" start="20260817232300 +0800" stop="20260818000800 +0800">
         <title lang="zh">企业风云路</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818000800 +0800" stop="20260818012300 +0800">
+    <programme channel="重庆卫视" start="20260818000800 +0800" stop="20260818003700 +0800">
         <title lang="zh">午夜剧场:飞哥大英雄(15)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818012300 +0800" stop="20260818021700 +0800">
-        <title lang="zh">午夜剧场:飞哥大英雄(16)</title>
+    <programme channel="重庆卫视" start="20260818003700 +0800" stop="20260818014300 +0800">
+        <title lang="zh">父辈的荣耀(21)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818021700 +0800" stop="20260818023800 +0800">
-        <title lang="zh">走进中国消防</title>
+    <programme channel="重庆卫视" start="20260818014300 +0800" stop="20260818024900 +0800">
+        <title lang="zh">加油!好少年</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818023800 +0800" stop="20260818025400 +0800">
-        <title lang="zh">红岩本色</title>
-    </programme>
-    <programme channel="重庆卫视" start="20260818025400 +0800" stop="20260818033500 +0800">
+    <programme channel="重庆卫视" start="20260818024900 +0800" stop="20260818040200 +0800">
         <title lang="zh">谢谢你来了</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818033500 +0800" stop="20260818042700 +0800">
+    <programme channel="重庆卫视" start="20260818040200 +0800" stop="20260818045000 +0800">
         <title lang="zh">中国故事</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818042700 +0800" stop="20260818052200 +0800">
-        <title lang="zh">深夜剧场:火线三兄弟</title>
+    <programme channel="重庆卫视" start="20260818045000 +0800" stop="20260818054200 +0800">
+        <title lang="zh">火线三兄弟(16)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818052200 +0800" stop="20260818064000 +0800">
-        <title lang="zh">深夜剧场:火线三兄弟</title>
+    <programme channel="重庆卫视" start="20260818054200 +0800" stop="20260818064400 +0800">
+        <title lang="zh">火线三兄弟(17)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818064000 +0800" stop="20260818070000 +0800">
+    <programme channel="重庆卫视" start="20260818064400 +0800" stop="20260818070000 +0800">
         <title lang="zh">财经壹资讯</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818070000 +0800" stop="20260818071700 +0800">
-        <title lang="zh">第一眼新闻</title>
+    <programme channel="重庆卫视" start="20260818070000 +0800" stop="20260818070100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818071700 +0800" stop="20260818074000 +0800">
+    <programme channel="重庆卫视" start="20260818070100 +0800" stop="20260818071600 +0800">
+        <title lang="zh">发言人来了</title>
+    </programme>
+    <programme channel="重庆卫视" start="20260818071600 +0800" stop="20260818074500 +0800">
         <title lang="zh">中国故事</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818074000 +0800" stop="20260818080000 +0800">
+    <programme channel="重庆卫视" start="20260818074500 +0800" stop="20260818075700 +0800">
+        <title lang="zh">早间栏目</title>
+    </programme>
+    <programme channel="重庆卫视" start="20260818075700 +0800" stop="20260818075900 +0800">
         <title lang="zh">早间气象服务</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818080000 +0800" stop="20260818083000 +0800">
-        <title lang="zh">TICO欢乐假日</title>
+    <programme channel="重庆卫视" start="20260818075900 +0800" stop="20260818083000 +0800">
+        <title lang="zh">加油!好少年</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818083000 +0800" stop="20260818091300 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818083000 +0800" stop="20260818091700 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(11)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818091300 +0800" stop="20260818100500 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818091700 +0800" stop="20260818101000 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(12)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818100500 +0800" stop="20260818110600 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818101000 +0800" stop="20260818110200 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(13)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818110600 +0800" stop="20260818120000 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818110200 +0800" stop="20260818120000 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(14)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818120000 +0800" stop="20260818121800 +0800">
-        <title lang="zh">第一眼新闻</title>
+    <programme channel="重庆卫视" start="20260818120000 +0800" stop="20260818121700 +0800">
+        <title lang="zh">第1眼新闻</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818121800 +0800" stop="20260818122400 +0800">
+    <programme channel="重庆卫视" start="20260818121700 +0800" stop="20260818122000 +0800">
         <title lang="zh">午间气象服务</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818122400 +0800" stop="20260818130800 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818122000 +0800" stop="20260818124900 +0800">
+        <title lang="zh">午间专题</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818130800 +0800" stop="20260818140100 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818124900 +0800" stop="20260818133100 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(15)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818140100 +0800" stop="20260818145300 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818133100 +0800" stop="20260818141900 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(16)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818145300 +0800" stop="20260818154500 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818141900 +0800" stop="20260818151000 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(17)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818154500 +0800" stop="20260818164000 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818151000 +0800" stop="20260818160200 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(18)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818164000 +0800" stop="20260818174500 +0800">
-        <title lang="zh">英雄剧场:新燕子李三</title>
+    <programme channel="重庆卫视" start="20260818160200 +0800" stop="20260818165700 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(19)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818174500 +0800" stop="20260818180400 +0800">
-        <title lang="zh">第一眼新闻</title>
+    <programme channel="重庆卫视" start="20260818165700 +0800" stop="20260818175000 +0800">
+        <title lang="zh">英雄剧场:黑玫瑰(20)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818180400 +0800" stop="20260818182600 +0800">
+    <programme channel="重庆卫视" start="20260818175000 +0800" stop="20260818180700 +0800">
+        <title lang="zh">第1眼新闻</title>
+    </programme>
+    <programme channel="重庆卫视" start="20260818180700 +0800" stop="20260818182600 +0800">
         <title lang="zh">财经壹资讯</title>
     </programme>
     <programme channel="重庆卫视" start="20260818182600 +0800" stop="20260818183000 +0800">
@@ -6186,26 +6192,29 @@
     <programme channel="重庆卫视" start="20260818185100 +0800" stop="20260818190000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818190000 +0800" stop="20260818193600 +0800">
-        <title lang="zh">中央新闻联播</title>
+    <programme channel="重庆卫视" start="20260818190000 +0800" stop="20260818193500 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818193600 +0800" stop="20260818202600 +0800">
+    <programme channel="重庆卫视" start="20260818193500 +0800" stop="20260818203400 +0800">
         <title lang="zh">传奇剧场:守护者们(33)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818202600 +0800" stop="20260818211600 +0800">
+    <programme channel="重庆卫视" start="20260818203400 +0800" stop="20260818212000 +0800">
         <title lang="zh">传奇剧场:守护者们(34)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818211600 +0800" stop="20260818221300 +0800">
+    <programme channel="重庆卫视" start="20260818212000 +0800" stop="20260818213600 +0800">
+        <title lang="zh">重庆第1眼</title>
+    </programme>
+    <programme channel="重庆卫视" start="20260818213600 +0800" stop="20260818230000 +0800">
         <title lang="zh">谢谢你来了</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818221300 +0800" stop="20260818224900 +0800">
-        <title lang="zh">健康到家</title>
+    <programme channel="重庆卫视" start="20260818230000 +0800" stop="20260818234300 +0800">
+        <title lang="zh">飞哥大英雄(15)</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818224900 +0800" stop="20260818232000 +0800">
-        <title lang="zh">企业风云路</title>
+    <programme channel="重庆卫视" start="20260818234300 +0800" stop="20260818235000 +0800">
+        <title lang="zh">风景区气象服务</title>
     </programme>
-    <programme channel="重庆卫视" start="20260818232000 +0800" stop="20260819003300 +0800">
-        <title lang="zh">晚间剧场:飞哥大英雄(4)</title>
+    <programme channel="重庆卫视" start="20260818235000 +0800" stop="20260819003300 +0800">
+        <title lang="zh">飞哥大英雄(16)</title>
     </programme>
     <channel id="三沙卫视">
         <display-name lang="zh">三沙卫视</display-name>
@@ -6558,83 +6567,80 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20260817235200 +0800" stop="20260818004700 +0800">
+    <programme channel="上视东方影视" start="20260817235200 +0800" stop="20260818003100 +0800">
         <title lang="zh">30集连续剧：智者无敌（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818004700 +0800" stop="20260818060800 +0800">
+    <programme channel="上视东方影视" start="20260818003100 +0800" stop="20260818060900 +0800">
         <title lang="zh">30集连续剧：智者无敌（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818060800 +0800" stop="20260818070100 +0800">
+    <programme channel="上视东方影视" start="20260818060900 +0800" stop="20260818065800 +0800">
         <title lang="zh">40集连续剧：勇者（39）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818070100 +0800" stop="20260818080200 +0800">
+    <programme channel="上视东方影视" start="20260818065800 +0800" stop="20260818080000 +0800">
         <title lang="zh">40集连续剧：勇者（40）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818080200 +0800" stop="20260818090000 +0800">
+    <programme channel="上视东方影视" start="20260818080000 +0800" stop="20260818085300 +0800">
         <title lang="zh">45集连续剧：中国远征军（10）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818090000 +0800" stop="20260818095300 +0800">
+    <programme channel="上视东方影视" start="20260818085300 +0800" stop="20260818094500 +0800">
         <title lang="zh">45集连续剧：中国远征军（11）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818095300 +0800" stop="20260818104600 +0800">
+    <programme channel="上视东方影视" start="20260818094500 +0800" stop="20260818103700 +0800">
         <title lang="zh">45集连续剧：中国远征军（12）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818104600 +0800" stop="20260818114100 +0800">
+    <programme channel="上视东方影视" start="20260818103700 +0800" stop="20260818113100 +0800">
         <title lang="zh">45集连续剧：中国远征军（13）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818114100 +0800" stop="20260818123000 +0800">
+    <programme channel="上视东方影视" start="20260818113100 +0800" stop="20260818122500 +0800">
         <title lang="zh">45集连续剧：中国远征军（14）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818123000 +0800" stop="20260818124500 +0800">
+    <programme channel="上视东方影视" start="20260818122500 +0800" stop="20260818124200 +0800">
         <title lang="zh">上海建筑百年</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818124500 +0800" stop="20260818133200 +0800">
+    <programme channel="上视东方影视" start="20260818124200 +0800" stop="20260818133100 +0800">
         <title lang="zh">32集连续剧：枪花（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818133200 +0800" stop="20260818134700 +0800">
+    <programme channel="上视东方影视" start="20260818133100 +0800" stop="20260818134700 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818134700 +0800" stop="20260818143900 +0800">
+    <programme channel="上视东方影视" start="20260818134700 +0800" stop="20260818144000 +0800">
         <title lang="zh">32集连续剧：枪花（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818143900 +0800" stop="20260818153300 +0800">
+    <programme channel="上视东方影视" start="20260818144000 +0800" stop="20260818153800 +0800">
         <title lang="zh">32集连续剧：枪花（27）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818153300 +0800" stop="20260818162600 +0800">
+    <programme channel="上视东方影视" start="20260818153800 +0800" stop="20260818163000 +0800">
         <title lang="zh">42集连续剧：蜂巢（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818162600 +0800" stop="20260818171800 +0800">
+    <programme channel="上视东方影视" start="20260818163000 +0800" stop="20260818172100 +0800">
         <title lang="zh">42集连续剧：蜂巢（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818171800 +0800" stop="20260818180500 +0800">
+    <programme channel="上视东方影视" start="20260818172100 +0800" stop="20260818181300 +0800">
         <title lang="zh">42集连续剧：蜂巢（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818180500 +0800" stop="20260818185000 +0800">
+    <programme channel="上视东方影视" start="20260818181300 +0800" stop="20260818185000 +0800">
         <title lang="zh">42集连续剧：蜂巢（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818185000 +0800" stop="20260818193900 +0800">
+    <programme channel="上视东方影视" start="20260818185000 +0800" stop="20260818193800 +0800">
         <title lang="zh">45集连续剧：中国远征军（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818193900 +0800" stop="20260818203200 +0800">
+    <programme channel="上视东方影视" start="20260818193800 +0800" stop="20260818203100 +0800">
         <title lang="zh">45集连续剧：中国远征军（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818203200 +0800" stop="20260818212100 +0800">
+    <programme channel="上视东方影视" start="20260818203100 +0800" stop="20260818212400 +0800">
         <title lang="zh">45集连续剧：中国远征军（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818212100 +0800" stop="20260818220900 +0800">
+    <programme channel="上视东方影视" start="20260818212400 +0800" stop="20260818221500 +0800">
         <title lang="zh">45集连续剧：中国远征军（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818220900 +0800" stop="20260818230000 +0800">
+    <programme channel="上视东方影视" start="20260818221500 +0800" stop="20260818230600 +0800">
         <title lang="zh">45集连续剧：中国远征军（19）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818230000 +0800" stop="20260818233700 +0800">
+    <programme channel="上视东方影视" start="20260818230600 +0800" stop="20260818234800 +0800">
         <title lang="zh">30集连续剧：智者无敌（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818233700 +0800" stop="20260818235300 +0800">
+    <programme channel="上视东方影视" start="20260818234800 +0800" stop="20260819003000 +0800">
         <title lang="zh">30集连续剧：智者无敌（5）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260818235300 +0800" stop="20260819060800 +0800">
-        <title lang="zh">30集连续剧：智者无敌（6）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
